@@ -1,0 +1,19 @@
+age_group,sex,risk,cost_only,forced_mean,p95
+0-15,Female,Low,Bronze,Bronze,Gold
+0-15,Female,Middle,No Insurance,Gold,Gold
+0-15,Female,High,Gold,Gold,Gold
+0-15,Male,Low,Bronze,Bronze,Gold
+0-15,Male,Middle,Bronze,Bronze,Gold
+0-15,Male,High,No Insurance,Bronze,Gold
+16-64,Female,Low,No Insurance,Bronze,Gold
+16-64,Female,Middle,Gold,Gold,Bronze
+16-64,Female,High,Gold,Gold,Bronze
+16-64,Male,Low,No Insurance,Bronze,Gold
+16-64,Male,Middle,Bronze,Bronze,Gold
+16-64,Male,High,Gold,Gold,Bronze
+65+,Female,Low,No Insurance,Bronze,Bronze
+65+,Female,Middle,Bronze,Bronze,Bronze
+65+,Female,High,Bronze,Bronze,Bronze
+65+,Male,Low,Bronze,Bronze,Bronze
+65+,Male,Middle,Bronze,Bronze,Bronze
+65+,Male,High,Bronze,Bronze,Bronze
